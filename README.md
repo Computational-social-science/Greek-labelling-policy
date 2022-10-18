@@ -7,9 +7,9 @@ The following experiments are based on a stakeholder framework to quantitatively
 ## 1、Diachronic discourse
 ![virus species+virus](https://user-images.githubusercontent.com/95559457/196437424-2ee435ea-9f00-4159-8bf2-6a445d087263.jpg)
 
+
 ## 2、Semantic drift
-
-
+![image](https://user-images.githubusercontent.com/95559457/196438330-3538f7f8-95d6-422f-95d6-3db13935c93c.png)
 
 
 ## 3、Geographical stigma
