@@ -1,8 +1,8 @@
 # Greek-labelling-policy
 
-We argue that such taxonomic expediency exposes twin niches that are lacking in virology: a one-size-fits-all nomenclature convention of known virus variants and a corresponding international authority with anofficial remit. 
+We orchestrate extensive metadata to contextualize these scientific and societal gaps within a stakeholder-oriented framework and leverage quantitative evidence syntheses to reappraise the social affinity of the exemplary policy in a modestly introspective investigation. We further disentangle collective preferences for various proper names of SARS-CoV-2 variants and profile alleviation effects, policy lag effects, and geographical heterogeneity in global discourses.Through the lens of systems theory, spatiotemporal patterns delineate uncharted mutual influences and synergistic effects between pandemic narratives and collective search behaviours. Simultaneously, we propose several overarching tenets of impending nomenclature conventions to reconcile scientific conventions and sociocultural variables.
 
-The following experiments are based on a stakeholder framework to quantitatively evaluate and analyze the global health policy of viral mutation.
+*The following experiments are based on a stakeholder framework to quantitatively evaluate and analyze the global health policy of viral mutation.*
 
 ## 1、Diachronic discourse
 
@@ -29,7 +29,7 @@ Global discourses of multiple nomenclatures for SARS-CoV-2 variants between 31 M
 <img src="https://user-images.githubusercontent.com/95559457/196439726-d256a87e-e35b-447b-ae07-b1f647dc265d.jpg" width="600px">
 Influential features of popular Greek labels for SARS-CoV-2 variants in pandemic narratives.
 <img src="https://user-images.githubusercontent.com/95559457/196439752-f0c5f49c-cee4-400d-ae1c-2ae071befe83.jpg" width="600px">
-Cluster analysis and principal component embedding of Greek labels for SARS-CoV-2 variants
+Cluster analysis and principal component embedding of Greek labels for SARS-CoV-2 variants.
 
 ## 6、Quantitative alleviation effect
 
