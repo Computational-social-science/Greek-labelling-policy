@@ -5,10 +5,11 @@ We argue that such taxonomic expediency exposes twin niches that are lacking in 
 The following experiments are based on a stakeholder framework to quantitatively evaluate and analyze the global health policy of viral mutation.
 
 ## 1、Diachronic discourse
-![image](https://user-images.githubusercontent.com/95559457/196436743-370a8204-3441-4fa6-8954-025e264e20d2.png)
-
+![virus species+virus](https://user-images.githubusercontent.com/95559457/196437424-2ee435ea-9f00-4159-8bf2-6a445d087263.jpg)
 
 ## 2、Semantic drift
+
+
 
 
 ## 3、Geographical stigma
