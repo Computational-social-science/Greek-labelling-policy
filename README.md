@@ -5,6 +5,7 @@ We argue that such taxonomic expediency exposes twin niches that are lacking in 
 The following experiments are based on a stakeholder framework to quantitatively evaluate and analyze the global health policy of viral mutation.
 
 ## 1、Diachronic discourse
+![image](https://user-images.githubusercontent.com/95559457/196436743-370a8204-3441-4fa6-8954-025e264e20d2.png)
 
 
 ## 2、Semantic drift
@@ -38,4 +39,8 @@ The following experiments are based on a stakeholder framework to quantitatively
 
 
 
-We contend that renewed emphasis on the naming conventions of virus variants is essential for progress in virology and health policy. The still raging pandemic is a perfect test bench example of the strengths and gaps in evidence-informed decisions. As such, the emergence and dissemination of SARS-CoV-2 variants have revived virus nomenclature, alongside thousands of new viruses and virus variants without official names, beyond the latest ICTV Master Species List. The ad hoc mixture of geographical descriptors, scientific designations, and Greek labels has revealed the thorny problem of establishing standardized classification and nomenclature conventions. Scientists have under-represented the emphasis on naming virus lineages, and a standard holistic convention has not yet materialized under the auspices of an official body. Our findings substantiate the urgency of establishing an agreed-upon convention based on viral genomes from metagenomics and single-virus sequencing coupled with the current ICTV taxonomy
+We contend that renewed emphasis on the naming conventions of virus variants is essential for progress in virology and health policy. The still raging pandemic is a perfect test bench example of the strengths and gaps in evidence-informed decisions. 
+
+As such, the emergence and dissemination of SARS-CoV-2 variants have revived virus nomenclature, alongside thousands of new viruses and virus variants without official names, beyond the latest ICTV Master Species List. The ad hoc mixture of geographical descriptors, scientific designations, and Greek labels has revealed the thorny problem of establishing standardized classification and nomenclature conventions. 
+
+Scientists have under-represented the emphasis on naming virus lineages, and a standard holistic convention has not yet materialized under the auspices of an official body. Our findings substantiate the urgency of establishing an agreed-upon convention based on viral genomes from metagenomics and single-virus sequencing coupled with the current ICTV taxonomy.
