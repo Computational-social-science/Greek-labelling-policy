@@ -21,7 +21,7 @@
 ## 3、Global discourses
 
 <div align=center>
-<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/03.%20Global%20discourses%20(Fig4)/figures/doughnutChart_300dpi.jpg" width="55%">
+<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/03.%20Global%20discourses%20(Fig4)/figures/doughnutChart_300dpi.jpg" width="46%">
 </div>
 
 ## 4、Quantitative alleviation effect
