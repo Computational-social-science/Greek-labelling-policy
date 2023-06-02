@@ -21,7 +21,7 @@
 ## 3、Global discourses
 
 <div align=center>
-<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/03.%20Global%20discourses%20(Fig4)/figures/doughnutChart_300dpi.jpg" width="35%">
+<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/03.%20Global%20discourses%20(Fig4)/figures/doughnutChart_300dpi.jpg" width="55%">
 </div>
 
 ## 4、Quantitative alleviation effect
@@ -43,7 +43,7 @@
 ## 6、Policy lag effects
 
 <div align=center>
-<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/06.%20Policy%20lag%20effects%20(Fig8)/figures/Fig.6_300dpi.jpg" width="80%">
+<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/06.%20Policy%20lag%20effects%20(Fig8)/figures/Fig.6_300dpi.jpg" width="88%">
 </div>
 
 ## 7、Geographical heterogeneity
