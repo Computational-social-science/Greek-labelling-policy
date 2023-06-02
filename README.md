@@ -5,7 +5,7 @@
 ## 1、Conceptual Figures
 
 <div align=center>
-<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/01.%20Conceptual%20Figures%20(Fig1%2C%20Fig2)/science-based%20policymaking.jpg" width="60%">
+<img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/01.%20Conceptual%20Figures%20(Fig1%2C%20Fig2)/science-based%20policymaking.jpg" width="70%">
 </div>
 
 <div align=center>
