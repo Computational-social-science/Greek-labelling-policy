@@ -80,6 +80,7 @@
 <img src="https://github.com/Computational-social-science/Greek-labelling-policy/blob/e325a9ebcf8365e84fe3720c6652b9217feea943/11.%20SARS-CoV-2%20clades%20(FigS3)/%E8%B0%B1%E7%B3%BB%E5%9B%BE_0920.jpg" width="100%">
 </div>
 
-
+## Citing this work
+The relevant paper is currently under review, during which time this repository is private. Once it goes public, a bibtex reference will be provided here.
 
 
